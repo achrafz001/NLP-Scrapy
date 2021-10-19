@@ -1,5 +1,6 @@
 # NLP-Scrapy
 Tutoried project : Harshit Tyagi
+
 **Goals of the Project**
 The goal of this project is to learn and apply Named Entity Recognition to extract important entities (publicly traded companies in our example) and then link each entity with some information using a knowledge base (Nifty500 companies list).
 
