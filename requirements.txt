@@ -1,0 +1,6 @@
+spacy
+pandas
+requests
+streamlit
+beautifulsoup4
+yfinance
